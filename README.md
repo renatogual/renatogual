@@ -1,4 +1,4 @@
-<img src="https://github.com/renatogual/renatogual/blob/main/imagens/gifcapagato.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="gif de capa">
+<img src="https://github.com/renatogual/renatogual/blob/main/imagens/gifcapagato.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="gif de capa">
 
 <p align="left"> 
   Olá, eu sou o Renato, seja bem vindo ao meu perfil! <br>
