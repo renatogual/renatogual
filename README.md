@@ -1,9 +1,9 @@
 <img src="https://github.com/renatogual/renatogual/blob/main/imagens/gifcapagato.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="gif de capa">
 
 <p align="left"> 
-  Olá, eu sou o Renato, engenheiro e desenvolvedor de softwares.<br>
-  Sou formado em Engenharia Elétrica e trabalho na Eox Tecnologia.<br>
-  Atualmente estou estudando fundamentos avançados de Javascript e ReactJS.
+  Olá, eu sou o Renato, seja bem vindo ao meu perfil! <br>
+  Sou formado em Engenharia Elétrica e trabalho na Eox Tecnologia como desenvolvedor de softwares. <br>
+  Atualmente estou estudando programação funcional em Javascript para aprimorar meus conhecimentos.
 </p>
 
 <p align="left">
