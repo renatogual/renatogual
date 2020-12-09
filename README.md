@@ -1,9 +1,9 @@
 <img src="https://github.com/renatogual/renatogual/blob/main/imagens/gifcapagato.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="gif de capa">
 
 <p align="left"> 
-  Olá, eu sou o Renato, seja bem vindo ao meu perfil! <br>
+  Olá, eu sou o Renato, seja bem vindo ao meu perfil ! <br>
   Sou formado em Engenharia Elétrica e trabalho na <a href="https://www.eox.com.br/">Eox Tecnologia</a> como desenvolvedor de softwares. <br>
-  Atualmente estou estudando programação funcional em Javascript para aprimorar meus conhecimentos.
+  Atualmente estou estudando programação funcional e reativa em Javascript para aprimorar meus conhecimentos.
 </p>
 
 <p align="left">
