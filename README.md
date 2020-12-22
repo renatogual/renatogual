@@ -2,8 +2,7 @@
 
 <p align="left"> 
   Olá, eu sou o Renato, seja bem vindo ao meu perfil ! <br>
-  Sou formado em Engenharia Elétrica e trabalho na <a href="https://www.eox.com.br/">Eox Tecnologia</a> como desenvolvedor de softwares. <br>
-  Atualmente estou estudando programação funcional e reativa em Javascript para aprimorar meus conhecimentos.
+  Sou formado em Engenharia Elétrica e trabalho na <a href="https://www.eox.com.br/">Eox Tecnologia</a> como desenvolvedor de softwares Jr. <br>
 </p>
 
 <p align="left">
