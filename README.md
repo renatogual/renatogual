@@ -2,7 +2,8 @@
 
 <p align="left"> 
   Olá, eu sou o Renato, seja bem vindo ao meu perfil ! <br>
-  Sou formado em Engenharia Elétrica e trabalho na <a href="https://www.eox.com.br/">Eox Tecnologia</a> como desenvolvedor de softwares Jr. <br>
+  Sou formado em Engenharia Elétrica e atuo com desenvolvimento web utilizando algumas das tecnologias abaixo. <br>
+  Para mais informações e detalhes sobre mim, veja meu perfil no linkedin: <a href="https://www.linkedin.com/in/renatogual/">renatogual</a>
 </p>
 
 <p align="left">
