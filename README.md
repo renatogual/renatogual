@@ -11,7 +11,7 @@
     <ul>
         <li> Front-End: <strong> Javascript, HTML, CSS </strong> </li>
         <li> Back-End: <strong> NodeJs e Python </strong> </li>
-        <li> Banco de dados: <strong> Postgres </strong> </li>
+        <li> Banco de dados: <strong> MongoDB e Postgres </strong> </li>
     </ul>
 </p>
 
@@ -19,7 +19,7 @@
   :wrench: Frameworks e libs: 
     <ul>
         <li> CSS: <strong> Bootstrap e Materialize </strong> </li>
-        <li> Javascript: <strong> Jquery e ReactJs </strong> </li>
+        <li> Javascript: <strong> Jquery e React </strong> </li>
         <li> NodeJs: <strong> Express e Electron </strong> </li>
         <li> Python: <strong> Flask </strong> </li>
 </p>
