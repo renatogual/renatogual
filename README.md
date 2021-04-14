@@ -8,17 +8,17 @@
 <h3 align="center">  Tech Enthusiast | Electrical Engineer | Frontend Developer </h3> <br>
 
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/renatogual/">
-    <img align="left" alt="LinkedIN" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
   <a target="_blank" href="mailto:renatogual@gmail.com">
-    <img align="left" alt="Gmail" src="https://img.shields.io/badge/Email-%234285F4.svg?&style=flat-square&logo=gmail&logoColor=white" />
+    <img alt="Gmail" src="https://img.shields.io/badge/Email-%234285F4.svg?&style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/renatogual/">
+    <img alt="LinkedIN" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a target="_blank" href="https://www.instagram.com/renatogual/">
-    <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" />
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" />
   </a>
   <a target="_blank" href="https://www.facebook.com/renato.gualberto.7/">
-    <img align="left" alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" />
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" />
   </a>
 </p>
 
