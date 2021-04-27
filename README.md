@@ -24,8 +24,8 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 Sobre
--  **Trabalho :**  Desenvolvimento Frontend
--  **Aprendendo :** React  |  React Native | Node
+-  **Trabalho :** Desenvolvimento Frontend Web
+-  **Aprendendo :** React Native | Node
 -  **Hobbies :** Videogames 🎮  |  Musica :headphones:  |  Motociclismo 🏍️  |  Viagens 🗺️ | Esportes 🏅
 -  **Me pergunte sobre :** Qualquer coisa!, Ficarei feliz em te ajudar :v:
 
