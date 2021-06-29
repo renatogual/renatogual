@@ -3,7 +3,7 @@
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
 
-<h1 align="center"> Olá, Eu sou o Renato Gualberto, seja bem vindo ao meu perfil !</h1>
+<h1 align="center"> Olá, eu sou o Renato Gualberto, seja bem vindo ao meu perfil !</h1>
 
 <h3 align="center">  Desenvolvedor Frontend React | React Native </h3> <br>
 
