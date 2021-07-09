@@ -5,7 +5,7 @@
 
 <h1 align="center"> Olá, eu sou o Renato Gualberto, seja bem vindo ao meu perfil !</h1>
 
-<h3 align="center">  Desenvolvedor Frontend React | React Native </h3> <br>
+<h3 align="center">  Desenvolvedor Frontend React </h3> <br>
 
 <p align="center">
   <a target="_blank" href="mailto:renatogual@gmail.com">
