@@ -24,7 +24,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 Sobre
--  **Trabalho :** Desenvolvedor Fullstack no Banco do Brasil
+-  **Trabalho :** Desenvolvedor Frontend React na Practic / Blue Express
 -  **Hobbies :** Videogames 🎮  |  Musica :headphones:  |  Motociclismo 🏍️  |  Viagens 🗺️ | Esportes 🏅
 -  **Me pergunte sobre :** Qualquer coisa!, Ficarei feliz em te ajudar :v:
 
