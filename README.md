@@ -3,6 +3,12 @@
 
 ## Olá, eu sou o Renato Gualberto, seja bem vindo ao meu perfil !
 
+### 🤔 Sobre:
+-  **Trabalho :** Desenvolvedor Frontend React & React Native
+-  **Hobbies :** Videogames 🎮  |  Musica :headphones:  |  Motociclismo 🏍️  |  Viagens 🗺️ | Esportes 🏅
+-  **Me pergunte sobre :** Qualquer coisa!, Ficarei feliz em te ajudar :v:
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📒 Meus contatos:
 <p>
   <a target="_blank" href="mailto:renatogual@gmail.com">
@@ -18,12 +24,6 @@
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" />
   </a>
 </p>
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### 🤔 Sobre:
--  **Trabalho :** Desenvolvedor Frontend React & React Native
--  **Hobbies :** Videogames 🎮  |  Musica :headphones:  |  Motociclismo 🏍️  |  Viagens 🗺️ | Esportes 🏅
--  **Me pergunte sobre :** Qualquer coisa!, Ficarei feliz em te ajudar :v:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
