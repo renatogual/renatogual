@@ -5,7 +5,7 @@
 
 <h1 align="center"> Olá, eu sou o Renato Gualberto, seja bem vindo ao meu perfil !</h1>
 
-<h3 align="center">  Desenvolvedor Frontend React </h3> <br>
+<h3 align="center">  Desenvolvedor Frontend React & React Native </h3> <br>
 
 <p align="center">
   <a target="_blank" href="mailto:renatogual@gmail.com">
@@ -24,24 +24,32 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 Sobre
--  **Trabalho :** Desenvolvedor Frontend React na Practic / Blue Express
+-  **Trabalho :** Desenvolvedor Frontend React & React Native
 -  **Hobbies :** Videogames 🎮  |  Musica :headphones:  |  Motociclismo 🏍️  |  Viagens 🗺️ | Esportes 🏅
 -  **Me pergunte sobre :** Qualquer coisa!, Ficarei feliz em te ajudar :v:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🛠️ Tecnologias e ferramentas:
+<div>
+	<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+	<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+	<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+	<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+	<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+	<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+	<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+	<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+	<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png">
+	<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+</div>
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<div>
+	<a href="https://github.com/seu-usuário-aqui">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatogual&layout=compact&langs_count=7&theme=dracula"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatogual&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+	
+![Snake animation](https://github.com/renatogual/renatogual/blob/output/github-contribution-grid-snake.svg)
 
