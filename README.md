@@ -1,11 +1,10 @@
 
 ![Snake animation](https://github.com/renatogual/renatogual/blob/output/github-contribution-grid-snake.svg)
 
-<h1 align="center"> Olá, eu sou o Renato Gualberto, seja bem vindo ao meu perfil !</h1>
+## Olá, eu sou o Renato Gualberto, seja bem vindo ao meu perfil !
 
-<h3 align="center">  Desenvolvedor Frontend React & React Native </h3> <br>
-
-<p align="center">
+### 📒 Meus contatos:
+<p>
   <a target="_blank" href="mailto:renatogual@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Email-%234285F4.svg?&style=flat-square&logo=gmail&logoColor=white" />
   </a>
@@ -21,7 +20,7 @@
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### 🤔 Sobre
+### 🤔 Sobre:
 -  **Trabalho :** Desenvolvedor Frontend React & React Native
 -  **Hobbies :** Videogames 🎮  |  Musica :headphones:  |  Motociclismo 🏍️  |  Viagens 🗺️ | Esportes 🏅
 -  **Me pergunte sobre :** Qualquer coisa!, Ficarei feliz em te ajudar :v:
