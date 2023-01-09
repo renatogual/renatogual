@@ -1,5 +1,5 @@
 
-![Snake animation](https://github.com/renatogual/renatogual/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/renatogual/renatogual/blob/output/github-contribution-grid-snake.svg) -->
 
 ## Olá, eu sou o Renato Gualberto, seja bem vindo ao meu perfil !
 
