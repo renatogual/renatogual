@@ -5,7 +5,7 @@
 
 ### 🤔 Sobre:
 -  **Trabalho :** Desenvolvedor Frontend React & React Native
--  **Hobbies :** Videogames 🎮  |  Musica :headphones:  |  Motociclismo 🏍️  |  Viagens 🗺️ | Esportes 🏅
+-  **Hobbies :** Games 🎮  |  Musica :headphones:  |  Motociclismo 🏍️  |  Viagens 🗺️ | Esportes 🏅
 -  **Me pergunte sobre :** Qualquer coisa!, Ficarei feliz em te ajudar :v:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
