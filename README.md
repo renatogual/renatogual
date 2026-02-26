@@ -1,12 +1,12 @@
 
 <!-- ![Snake animation](https://github.com/renatogual/renatogual/blob/output/github-contribution-grid-snake.svg) -->
 
-## Olá, eu sou o Renato Gualberto, seja bem vindo ao meu perfil !
+## Hello, I'm Renato Gualberto, welcome to my profile!
 
-### 🤔 Sobre:
--  **Trabalho :** Desenvolvedor Frontend React & React Native
--  **Hobbies :** Games 🎮  |  Musica :headphones:  |  Motociclismo 🏍️  |  Viagens 🗺️ | Esportes 🏅
--  **Me pergunte sobre :** Qualquer coisa!, Ficarei feliz em te ajudar :v:
+### 🤔 About:
+- **Work:** Frontend Developer (React & React Native)  
+- **Hobbies:** Games 🎮 | Music 🎧 | Motorcycling 🏍️ | Traveling 🗺️ | Sports 🏅  
+- **Ask me about:** Anything! I’ll be happy to help you ✌️
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📒 Meus contatos:
