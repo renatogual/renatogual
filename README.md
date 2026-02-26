@@ -9,7 +9,7 @@
 - **Ask me about:** Anything! I’ll be happy to help you ✌️
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### 📒 Meus contatos:
+### 📒 My contacts:
 <p>
   <a target="_blank" href="mailto:renatogual@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Email-%234285F4.svg?&style=flat-square&logo=gmail&logoColor=white" />
@@ -27,7 +27,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 🛠️ Tecnologias e ferramentas:
+### 🛠️ Technologies and Tools:
 <div>
 	<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 	<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
